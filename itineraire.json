@@ -1,0 +1,173 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Escapade relaxante au cœur du Caucase",
+  "budget_total": "950 €",
+  "duree": "4 jours",
+  "temps_vol": "6h30 (avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douceur à Tbilissi",
+      "legende": "Après votre vol, installez-vous confortablement dans la capitale géorgienne. La première journée est dédiée à une découverte en douceur du Vieux Tbilissi, ses ruelles colorées et son ambiance unique, parfaite pour se détendre après le voyage.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Tbilissi</strong>: Transfert vers votre hôtel et installation pour un début de séjour serein.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous préparer pour une première exploration.",
+        "<strong>🚶‍♂️ Balade dans le Vieux Tbilissi</strong>: Flânez dans les rues pavées, admirez l'architecture éclectique et imprégnez-vous de l'atmosphère locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire avec la Géorgie est de +2 heures en été et +3 heures en hiver par rapport à Paris. Prévoyez une arrivée en fin d'après-midi pour une première journée légère."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛀",
+      "titre": "Bains de soufre et vues panoramiques",
+      "legende": "Explorez les trésors de Tbilissi, des forteresses historiques aux célèbres bains de soufre. Une journée équilibrée entre culture et relaxation, offrant des panoramas imprenables sur la ville et une expérience de bien-être authentique.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🚠 Montée à la Forteresse de Narikala</strong>: Prenez le téléphérique pour une vue spectaculaire sur Tbilissi et la rivière Koura, puis explorez les ruines de cette ancienne forteresse.",
+        "<strong>🌿 Visite du Jardin Botanique National</strong>: Descendez de Narikala vers ce havre de paix, idéal pour une promenade relaxante au milieu d'une flore variée et de petites cascades.",
+        "<strong>🧖‍♀️ Détente aux Bains de Soufre d'Abanotubani</strong>: Offrez-vous une expérience de relaxation unique dans les célèbres bains aux dômes de briques, réputés pour leurs vertus thérapeutiques."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Réservez votre salle privée aux bains de soufre à l'avance, surtout le week-end, pour garantir votre créneau de détente."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛪",
+      "titre": "Mtskheta, l'ancienne capitale sacrée",
+      "legende": "Évadez-vous de l'agitation urbaine pour une journée paisible à Mtskheta, site classé au patrimoine mondial de l'UNESCO. Découvrez des monastères millénaires et profitez de la sérénité des paysages géorgiens, une immersion culturelle douce et enrichissante.",
+      "lieu": "Mtskheta & Tbilissi",
+      "activites": [
+        "<strong>🚌 Excursion à Mtskheta</strong>: Prenez un \"marshrutka\" (minibus local) ou un taxi pour cette ancienne capitale, à seulement 30 minutes de Tbilissi, un lieu empreint d'histoire et de spiritualité.",
+        "<strong>⛪ Visite de la Cathédrale de Svetitskhoveli</strong>: Admirez cette magnifique cathédrale, l'un des lieux les plus sacrés de Géorgie, et son architecture impressionnante.",
+        "<strong>⛰️ Monastère de Jvari</strong>: Montez jusqu'à ce monastère perché pour une vue panoramique époustouflante sur la confluence des rivières Koura et Aragvi, un cadre idéal pour la contemplation."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍷",
+          "titre": "Suggestion",
+          "texte": "Au retour à Tbilissi, terminez la journée par une dégustation de vins géorgiens dans une cave locale, pour découvrir les saveurs uniques de cette région viticole millénaire."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures à Tbilissi pour quelques emplettes ou une dernière balade. Ramenez un souvenir de votre voyage avant de vous diriger vers l'aéroport, la tête pleine de souvenirs relaxants et enrichissants de la Géorgie.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛍️ Marché aux Puces du Pont Sec (Dry Bridge Market)</strong>: Chinez des antiquités, des œuvres d'art et des souvenirs uniques pour ramener un morceau de Géorgie chez vous.",
+        "<strong>🍽️ Dernier déjeuner géorgien</strong>: Savourez une dernière fois les délices de la cuisine locale, comme les khinkalis ou le khachapuri, dans un restaurant typique.",
+        "<strong>✈️ Départ de Tbilissi</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, France, avec des souvenirs mémorables de votre escapade relaxante."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché du Pont Sec est parfait pour trouver des cadeaux originaux et des objets d'artisanat local à des prix abordables."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 356 €/pers (A/R depuis Paris)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 55 €/pers (transferts aéroport, transports locaux, excursion Mtskheta)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 180 €/pers (45€/jour pour 3 repas, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 240 €/pers (3 nuits en hôtel 3* à 80€/nuit)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 100 €/pers (bains de soufre, téléphérique, musées, dégustation de vin)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Juin",
+      "symbole": "🌸"
+    },
+    {
+      "titre": "Septembre à Octobre",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Lari géorgien (GEL). Les cartes de crédit sont acceptées dans les grandes villes, mais prévoyez du liquide pour les petits commerces et les marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le géorgien est la langue officielle. Dans les zones touristiques, l'anglais est souvent parlé. Apprendre quelques mots de géorgien est toujours apprécié.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Les températures varient fortement selon la saison. Au printemps et en automne, prévoyez des couches de vêtements, car les matinées peuvent être fraîches et les après-midis doux.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Pour les transports en ville, le métro et les bus sont efficaces à Tbilissi. Les taxis (ou applications comme Bolt) sont abordables. Pour les excursions, les \"marshrutkas\" sont une option économique.",
+      "symbole": "🚌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol Paris-Tbilissi",
+      "url": "https://www.kayak.fr/flights/CDG-TBS/2025-05-15/2025-05-18",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Géorgie",
+      "url": "https://georgia.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Prévisions météo Tbilissi",
+      "url": "https://www.accuweather.com/fr/ge/tbilisi/290407/weather-forecast/290407",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Transports locaux",
+      "titre": "Tbilisi Transport Company",
+      "url": "https://ttc.com.ge/en/",
+      "symbole": "🚇"
+    }
+  ]
+}
